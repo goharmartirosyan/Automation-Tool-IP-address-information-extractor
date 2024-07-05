@@ -7,7 +7,7 @@
 python3 “file name” -i  “ip address”
 
 python3 “file name” –ip “ip address”
-## Tools
+## Features
 •  IP to Domain Resolution: Uses the socket library to resolve an IP address to its domain name.
 
 •  Subdomain Enumeration: Leverages Certificate Transparency logs to enumerate subdomains.
